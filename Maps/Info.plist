@@ -68,5 +68,10 @@
 	<string>Voy a usar tu localizacion en background</string>
 	<key>NSLocationWhenInUseUsageDescription</key>
 	<string>Voy a necesitar tu ubicacion a veces</string>
+	<key>LSApplicationQueriesSchemes</key>
+	<array>
+		<string>googlechromes</string>
+		<string>comgooglemaps</string>
+	</array>
 </dict>
 </plist>
